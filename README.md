@@ -1,4 +1,4 @@
-## Oiii eu sou a Ronan Stuchi, criação digital e tecnologia!
+## Oiii eu sou Ronan Stuchi, criação digital e tecnologia!
 ༼ つ ◕_◕ ༽つ  São Paulo / Brazil
 
 <div align="center">
