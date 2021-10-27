@@ -1,4 +1,4 @@
-## Oiii eu sou Ronan Stuchi, criação digital e tecnologia!
+## Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Ronan Stuchi, criação digital e tecnologia!
 ༼ つ ◕_◕ ༽つ  São Paulo / Brazil
 
 <div align="center">
