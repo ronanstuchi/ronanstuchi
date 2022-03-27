@@ -1,4 +1,4 @@
-## Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Ronan Stuchi, Front-End e criação digital!
+## Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">. Sou Ronan Stuchi, Web Developer e Criação Digital!
 ༼ つ ◕_◕ ༽つ  São Paulo / Brazil
 
 <div align="center">
