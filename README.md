@@ -2,7 +2,7 @@
 ༼ つ ◕_◕ ༽つ  São Paulo / Brazil
 
 <div align="center">
-   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS </h3>
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
 
@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanstuchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanstuchi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+   
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Ro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +19,7 @@
   <img align="center" alt="Ro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ro-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  ![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-  ![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+  
   
 </div>
   
