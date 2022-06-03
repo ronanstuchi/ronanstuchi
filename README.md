@@ -23,7 +23,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  
+  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+ https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+ https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 </div>
 
 
@@ -46,7 +48,7 @@
  <div>  
  <p align="left">
    
-   - Diga "OI" é grátis e vai fazer meu dia mais Feliz: ⤵️
+ 
 </p>
 
 <p align="left">
