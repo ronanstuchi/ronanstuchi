@@ -1,5 +1,15 @@
-## Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">. Sou Ronan Stuchi, Web Developer e Criação Digital!
-༼ つ ◕_◕ ༽つ  São Paulo / Brazil
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+
+## ༼ つ ◕_◕ ༽つ  São Paulo / Brazil
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
