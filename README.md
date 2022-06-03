@@ -1,7 +1,9 @@
+ ༼ つ ◕_◕ ༽つ  São Paulo / Brazil <br> </br>
+
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+  <br> </br>
+  
 </div>
 
 
@@ -11,8 +13,8 @@
 </div>
 
 
+<br> </br>
 
-<br>
 <div style="display: inline_block">
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,13 +22,12 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</br>  
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   
 </div>
 
 
-
+<br> </br>
 
 
 <div align="center">
@@ -36,8 +37,7 @@
 </div>
    
 
-  
-  <br> ༼ つ ◕_◕ ༽つ  São Paulo / Brazil </br>
+ 
   
 
  
