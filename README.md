@@ -11,7 +11,9 @@
 </div>
 
 
-<div style="display: inline_block"><br>
+
+<br>
+<div style="display: inline_block">
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -19,7 +21,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+</br>  
   
 </div>
 
@@ -35,13 +37,15 @@
    
 
   
- 
-<div> 
+  <br> ༼ つ ◕_◕ ༽つ  São Paulo / Brazil </br>
   
+
+ 
+  ![Snake animation](https://github.com/ronanstuchi/ronanstuchi/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div>  
  <p align="left">
    
-   <br> ༼ つ ◕_◕ ༽つ  São Paulo / Brazil </br>
-  
    - Diga "OI" é grátis e vai fazer meu dia mais Feliz: ⤵️
 </p>
 
@@ -62,7 +66,10 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
   
+ </div>
  
-  ![Snake animation](https://github.com/ronanstuchi/ronanstuchi/blob/output/github-contribution-grid-snake.svg)
+
+ 🏡[website]: https://cafe-com-ronan.vercel.app/
  
-</div>
+
+
