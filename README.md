@@ -1,4 +1,3 @@
- ༼ つ ◕_◕ ༽つ  São Paulo / Brazil <br> </br>
 
 
 
@@ -10,8 +9,10 @@
 
 
 
-# 🏡[website]: https://cafe-com-ronan.vercel.app/
 
+## 🏡[website]: https://cafe-com-ronan.vercel.app/
+
+<br> </br>
 
 <div align="center">
   <a href="https://github.com/ronanstuchi">
@@ -22,7 +23,6 @@
 <br> </br>
 
  <div style="display: inline_block">
-  
   <img class="page-cover-image" src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width='100px' />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -31,7 +31,6 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
-  
 </div>
   
 
@@ -40,8 +39,6 @@
  
  <div>  
  <p align="left">
-   
- 
 </p>
 
 <p align="left">
