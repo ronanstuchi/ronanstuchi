@@ -1,21 +1,27 @@
  ༼ つ ◕_◕ ༽つ  São Paulo / Brazil <br> </br>
 
+
+
+
+
+
+
+
+
+
+
+# 🏡[website]: https://cafe-com-ronan.vercel.app/
+
+
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br> </br>
-  
+  <a href="https://github.com/ronanstuchi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanstuchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanstuchi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-
-<div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-</div>
-
-
+   
 <br> </br>
 
-<div style="display: inline_block">
+ <div style="display: inline_block">
   
   <img class="page-cover-image" src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width='100px' />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,19 +33,6 @@
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
   
 </div>
-
-
-<br> </br>
-
-
-<div align="center">
-  <a href="https://github.com/ronanstuchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanstuchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanstuchi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-   
-
- 
   
 
  
@@ -71,7 +64,7 @@
  </div>
  
 
- 🏡[website]: https://cafe-com-ronan.vercel.app/
+
  
 
 
